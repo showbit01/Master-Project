@@ -1,2 +1,7 @@
-# Drift-Data-Management
-Due to privacy,Dataset is not uploaded .
+# Drift-Data-Management in context of IoT sensors.
+Unlike traditional Machine Learning method,Deep Learning method are mostly used by researchers be- cause of their generalization power.Consider being in static environment,static deep learning model are used most of the time that are trained by batch followed by back propagation.This is not a feasible approach in real world scenario where data arrives in a sequence.
+There are techniques for traditional Machine Learning method for performing drift detection involves the use of machine learning algorithms by learning from and using data from previous experiences with three types of machine learning task supervised, unsupervised, and semi-supervised learning. Supervised learning trains the model based on predefined labelled data, while unsupervised learning finds similarities between unlabelled data. However, semi-supervised learning deals with partially labelled data to build the model.
+For fast learning without full batches of data, model needs to adapt itself accordingly.Single instances are back propagated instead of batches.Fixed depth model is not doing well in dynamic environment,dynamic depth model is adopted for learning with more and more data arrives and how to adopt and when to adopt with drift nature of data or to learn faster,reward policy is used for loss function to update the parameter like in autonomous deep learning network and statistical approach is used to detect drift detection.
+If the model is much complex depth of hidden layers, the learning process will converge slowly, thus losing dynamic aspect of model On the other extreme, if the model is too simple, the learning capacity will be too restricted, and without the power of depth, it would be difficult to learn complex patterns.
+
+->Due to privacy,Dataset is not uploaded .
