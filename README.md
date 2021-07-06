@@ -4,4 +4,4 @@ There are techniques for traditional Machine Learning method for performing drif
 For fast learning without full batches of data, model needs to adapt itself accordingly.Single instances are back propagated instead of batches.Fixed depth model is not doing well in dynamic environment,dynamic depth model is adopted for learning with more and more data arrives and how to adopt and when to adopt with drift nature of data or to learn faster,reward policy is used for loss function to update the parameter like in autonomous deep learning network and statistical approach is used to detect drift detection.
 If the model is much complex depth of hidden layers, the learning process will converge slowly, thus losing dynamic aspect of model On the other extreme, if the model is too simple, the learning capacity will be too restricted, and without the power of depth, it would be difficult to learn complex patterns.
 
-->Due to privacy,Dataset is not uploaded .
+->Due to privacy,real sensor dataset is not shown.
