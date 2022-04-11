@@ -1,4 +1,4 @@
-# Drift-Data-Management in context of IoT sensors / This repo is a part of my MTech Project.
+# Drift-Data-Management in context of IoT sensors / This repo is a part of my M.Tech. Project.
 
 Unlike traditional Machine Learning method,Deep Learning method are mostly used by researchers be- cause of their generalization power.Consider being in static environment,static deep learning model are used most of the time that are trained by batch followed by back propagation.This is not a feasible approach in real world scenario where data arrives in a sequence.
 There are techniques for traditional Machine Learning method for performing drift detection involves the use of machine learning algorithms by learning from and using data from previous experiences with three types of machine learning task supervised, unsupervised, and semi-supervised learning. Supervised learning trains the model based on predefined labelled data, while unsupervised learning finds similarities between unlabelled data. However, semi-supervised learning deals with partially labelled data to build the model.
